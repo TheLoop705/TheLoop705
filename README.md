@@ -21,4 +21,4 @@ Based in Frankfurt, Germany.
 
 ## Connect
 
-[Portfolio](https://sultandayani.com) · [LinkedIn](https://www.linkedin.com/in/sultan-dayani-3419a01b1) · [Email](mailto:contact@sultandayani.com)
+[Portfolio](https://sultandayani.com)
